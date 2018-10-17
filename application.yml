@@ -1,0 +1,24 @@
+{
+  "Cassandra": {
+    "Credentials": {
+      "Username": "some user name",
+      "Password": "some password"
+    },
+    "ContactPoints": [
+      "10.1.131.5",
+      "10.1.131.4",
+      "10.1.130.2",
+      "10.1.131.4",
+      "10.1.131.04",
+      "10.1.131.421",
+      "10.1.131.785",
+      "10.1.131.888",
+      "10.1.131.897",
+      "10.1.131.999"
+    ],
+    "KeyspaceName": "some wip"
+  },
+  "RabbitMQ": {
+    "ConnectionString": "some demo rabbitmq connection string"
+  }
+}
