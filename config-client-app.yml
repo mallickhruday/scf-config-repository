@@ -1,1 +1,8 @@
 
+{
+  "Cassandra": {
+    "Credentials": {
+      "Username": "application user",
+      "Password": "application password"
+    }
+}
